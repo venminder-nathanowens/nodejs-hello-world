@@ -1,5 +1,5 @@
 {
-  "name": "venminder-nathanowens/nodejs-hello-world",
+  "name": "@venminder-nathanowens/nodejs-hello-world",
   "version": "1.0.0",
   "description": "Hello World nodejs",
   "main": "dist/index.js",
