@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-hello-world",
+  "name": "venminder-nathanowens/nodejs-hello-world",
   "version": "1.0.0",
   "description": "Hello World nodejs",
   "main": "dist/index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solankiarpan/nodejs-hello-world.git"
+    "url": "git+https://github.com/venminder-nathanowens/nodejs-hello-world.git"
   },
-  "author": "Arpan Solanki",
+  "author": "Nathan Owens",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/solankiarpan/nodejs-hello-world/issues"
+    "url": "https://github.com/venminder-nathanowens/nodejs-hello-world/issues"
   },
-  "homepage": "https://github.com/solankiarpan/nodejs-hello-world#readme",
+  "homepage": "https://github.com/venminder-nathanowens/nodejs-hello-world#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.9",
     "@babel/core": "^7.23.9",
